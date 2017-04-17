@@ -1,0 +1,492 @@
+{
+  "meta": [
+    {
+      "name": "Presidenciables Chile 2017",
+      "version": "0.1.0",
+      "releaseDate": "2017-04-12T00:00:00.000Z",
+      "by": "devschile team"
+    }
+  ],
+  "candidatos": [
+    {
+      "candidato": {
+        "nombre": "Manuel José Ossandón",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "RN",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Chile Vamos",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Felipe Kast",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Evópoli",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Chile Vamos",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Sebastián Piñera",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "RN",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Chile Vamos",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Carolina Goic",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "DC",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Nueva Mayoría",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Alejandro Guillier",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "PRSD",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Nueva Mayoría",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Franco Parisi",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Democracia Regional Patagónica",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Beatriz Sánchez",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Revolución Democrática y Movimiento Autonomista",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Nueva Democracia",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": false
+    },
+    {
+      "candidato": {
+        "nombre": "Alejandro Navarro",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "País",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Frente Amplio",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Alberto Mayol",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Frente Amplio",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Nueva Democracia",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Tomás Jocelyn-Holt",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Independiente",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Marco Enríquez-Ominami",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "PRO",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Nicolás Larraín",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Todos",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Carola Canelo",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Independiente",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "José Antonio Kast",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Independiente",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    },
+    {
+      "candidato": {
+        "nombre": "Marcel Claude",
+        "foto": ""
+      },
+      "partido": {
+        "nombre": "Humanista",
+        "logo": ""
+      },
+      "conglomerado": {
+        "nombre": "Todos a La Moneda",
+        "logo": ""
+      },
+      "temas": {
+        "empleo": [],
+        "salud": [],
+        "educacion": [],
+        "transporte": [],
+        "obras-publicas": [],
+        "energia": [],
+        "ecologia": [],
+        "pensiones": [],
+        "valoricos": {
+          "aborto": [],
+          "matrimonio-igualitario": []
+        },
+        "cultura": [],
+        "deporte": [],
+        "seguridad": []
+      },
+      "precandidato": true
+    }
+  ]
+}
