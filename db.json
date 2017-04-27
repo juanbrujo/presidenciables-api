@@ -25,7 +25,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -60,7 +67,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -95,7 +109,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -130,7 +151,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_de_la_Nueva_Mayor%C3%ADa.svg"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -165,7 +193,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_de_la_Nueva_Mayor%C3%ADa.svg"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -200,7 +235,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -235,7 +277,14 @@
         "logo": "https://scontent.fscl9-1.fna.fbcdn.net/v/t1.0-9/15542300_349834375396118_1308503525632722652_n.png?oh=56b27cd34cfbcf726360748bb489c71f&oe=59748520"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -270,7 +319,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Frente_Amplio_Chile_2017.png"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -305,7 +361,14 @@
         "logo": "https://scontent.fscl9-1.fna.fbcdn.net/v/t1.0-9/15542300_349834375396118_1308503525632722652_n.png?oh=56b27cd34cfbcf726360748bb489c71f&oe=59748520"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -340,7 +403,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -375,7 +445,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -410,7 +487,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -445,7 +529,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -480,7 +571,14 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -515,7 +613,14 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Todos_a_La_Moneda_emblema.png"
       },
       "temas": {
-        "empleo": [],
+        "empleo": [{
+                "texto": [],
+                "fuente": ""
+        },
+        {
+                "texto": [],
+                "fuente": ""
+        }],
         "salud": [],
         "educacion": [],
         "transporte": [],
