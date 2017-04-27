@@ -1,4 +1,0 @@
-{
-  "/api/": "/",
-  "/api/:resource/:candidato/nombre/show": "/:resource/:candidato/nombre",
-}
