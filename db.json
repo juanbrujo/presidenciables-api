@@ -25,28 +25,161 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+            {
+                "texto": ["Estoy contra el aborto en cualquiera de sus formas y causales"],
+                "url": "http://www.elmostrador.cl/noticias/pais/2017/01/18/ossandon-por-proyecto-que-despenaliza-interrupcion-del-embarazo-estoy-contra-el-aborto-en-cualquiera-de-sus-formas-y-causales/"
+            },
+            {
+                "texto": ["Defender la vida es un privilegio para todos los que creemos que el énfasis está puesto en el bebé que está por nacer"],
+                "url": "http://www.elmostrador.cl/noticias/pais/2017/01/18/ossandon-por-proyecto-que-despenaliza-interrupcion-del-embarazo-estoy-contra-el-aborto-en-cualquiera-de-sus-formas-y-causales/"
+            },
+            {
+                "texto": ["Sobre el aborto: Si me hace perder una elección, orgulloso la pierdo"],
+                "url": "http://www.cnnchile.com/noticia/2016/02/29/ossandon-y-postura-sobre-el-aborto-si-me-hace-perder-una-eleccion-orgulloso-la-pierdo"
+            },{
+                "texto": ["La vida está siempre primero"],
+                "url": "http://www.cnnchile.com/noticia/2017/01/18/ossandon-por-despenalizacion-del-aborto-la-vida-esta-siempre-primero"
+            },
+            {
+                "texto": ["El ser humano concebido en una relación de amor o una violación, no tiene diferencia"],
+                "url": "http://www.gamba.cl/2017/01/ossandon-el-ser-humano-concebido-en-una-relacion-de-amor-o-una-violacion-no-tiene-diferencia/"
+            },
+            {
+                "texto": ["Yo creo que lo que hay que hacer es acompañar y dar en adopción o buscar fórmulas para que ese niño tenga el derecho básico que es nacer"],
+                "url": "http://www.eldinamo.cl/nacional/2017/01/17/video-ossandon-aborto/"
+            },
+            {
+                "texto": ["Por malformación, bueno, algunos somos más feos que otros, pero por Dios que se ha equivocado la ciencia en esto"],
+                "url": "http://www.eldinamo.cl/nacional/2017/01/17/video-ossandon-aborto/"
+            },
+            {
+                "texto": ["El Presidente de la República y la Primera Dama siempre han estado por la vida"],
+                "url": "http://www.latercera.com/noticia/ossandon-y-aborto-terapeutico-el-gobierno-jamas-va-a-apoyar-esto/"
+            },
+            {
+                "texto": ["La vida es la vida, y no tengo ninguna autoridad para decidir sobre la vida de alguien que no puede hablar"],
+                "url": "http://www.latercera.com/noticia/ossandon-y-aborto-terapeutico-el-gobierno-jamas-va-a-apoyar-esto/"
+            },
+            {
+                "texto": ["Nosotros no nos metemos en la planificación familiar, le damos a quien sea todos los métodos, pero mientras la ciencia no se ponga de acuerdo en que haya un aborto, personalmente no voy a entregarla"],
+                "url": "http://www.latercera.com/noticia/ossandon-y-aborto-terapeutico-el-gobierno-jamas-va-a-apoyar-esto/"
+            },
+            {
+                "texto": ["Una ley que no aprobaría nunca si llego al Congreso es la de aborto. Ningún tipo de aborto"],
+                "url": "http://diario.latercera.com/2012/09/30/01/contenido/la-tercera-el-semanal/34-119440-9-mi-manifiesto-manuel-jose-ossandon.shtml"
+            },
+            {
+                "texto": ["No puedo entender la diferencia de una persona concebida por violación, de alguien concebido de forma normal"],
+                "url": "http://www.eldinamo.cl/nacional/2017/01/25/ossandon-no-veo-diferencia-entre-persona-concebida-por-violacion-y-alguien-concebido-de-forma-normal/"
+            },
+            {
+                "texto": ["Creo que las mujeres tienen todo el derecho a decidir sobre su cuerpo. Pero no sobre otra vida. Por eso votaré en contra de este proyecto"],
+                "url": "http://www.eldinamo.cl/nacional/2017/01/25/ossandon-no-veo-diferencia-entre-persona-concebida-por-violacion-y-alguien-concebido-de-forma-normal/"
+            },
+            {
+                "texto": ["Como dice el Papa Francisco, hay que convencerla que tener ese hijo es lo mejor"],
+                "url": "http://www.emol.com/noticias/nacional/2014/05/28/662472/ossandon-a-la-mujer-violada-no-hay-que-amenazarla-con-afiches-o-caricaturas.html"
+            },
+            {
+                "texto": ["Hay algunos que ponen el énfasis en la libertad de la mujer para decidir sobre lo que hace con su cuerpo y habemos otros que ponemos el énfasis en la vida del que está por nacer"],
+                "url": "http://www.t13.cl/noticia/actualidad/ossandon-critica-panfleto-de-la-udi-contra-aborto-la-vida-no-se-defiende-con-caricatura"
+            },
+            {
+                "texto": ["La vida no se defiende con panfletos, con caricaturas ni con amenazas. Defenderla es un privilegio para todos los que creemos que el énfasis está puesto en el bebé que está por nacer"],
+                "url": "http://www.latercera.com/noticia/ossandon-cuestiona-ofensiva-udi-la-vida-no-se-defiende-con-panfletos-con-caricaturas-ni-amenazas/"
+            },
+            {
+                "texto": ["Si yo comparo animales con vida humana, banalizo la discusión y la rebajo. La vida es tan sagrada que no admite comparaciones burda"],
+                "url": "http://www.t13.cl/noticia/actualidad/ossandon-critica-panfleto-de-la-udi-contra-aborto-la-vida-no-se-defiende-con-caricatura"
+            },
+            {
+                "texto": ["A la mujer violada no hay que amenazarla con afiches o caricaturas"],
+                "url": "http://www.t13.cl/noticia/actualidad/ossandon-critica-panfleto-de-la-udi-contra-aborto-la-vida-no-se-defiende-con-caricatura"
+            },
+            {
+                "texto": ["Todos saben que yo defiendo la vida y que lo voy a hacer siempre, pero no caricaturizando las cosas"],
+                "url": "http://www.latercera.com/noticia/ossandon-cuestiona-ofensiva-udi-la-vida-no-se-defiende-con-panfletos-con-caricaturas-ni-amenazas/"
+            },
+            {
+                "texto": ["Es una pena que la muerte le gane a la vida"],
+                "url": "http://www.elmostrador.cl/noticias/pais/2017/01/18/ossandon-por-proyecto-que-despenaliza-interrupcion-del-embarazo-estoy-contra-el-aborto-en-cualquiera-de-sus-formas-y-causales/"
+            }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -67,14 +200,7 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
+        "empleo": [],
         "salud": [],
         "educacion": [],
         "transporte": [],
@@ -109,28 +235,86 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/52/Chile_Vamos.png"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -151,28 +335,86 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_de_la_Nueva_Mayor%C3%ADa.svg"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -193,28 +435,86 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/5/56/Logo_de_la_Nueva_Mayor%C3%ADa.svg"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -235,28 +535,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -277,28 +635,86 @@
         "logo": "https://scontent.fscl9-1.fna.fbcdn.net/v/t1.0-9/15542300_349834375396118_1308503525632722652_n.png?oh=56b27cd34cfbcf726360748bb489c71f&oe=59748520"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -319,28 +735,86 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/37/Frente_Amplio_Chile_2017.png"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -361,28 +835,86 @@
         "logo": "https://scontent.fscl9-1.fna.fbcdn.net/v/t1.0-9/15542300_349834375396118_1308503525632722652_n.png?oh=56b27cd34cfbcf726360748bb489c71f&oe=59748520"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -403,28 +935,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -445,28 +1035,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -487,28 +1135,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -529,28 +1235,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     },
@@ -571,28 +1335,86 @@
         "logo": ""
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": false
     },
@@ -613,28 +1435,86 @@
         "logo": "https://upload.wikimedia.org/wikipedia/commons/3/3b/Todos_a_La_Moneda_emblema.png"
       },
       "temas": {
-        "empleo": [{
-                "texto": [],
-                "fuente": ""
-        },
-        {
-                "texto": [],
-                "fuente": ""
-        }],
-        "salud": [],
-        "educacion": [],
-        "transporte": [],
-        "obras-publicas": [],
-        "energia": [],
-        "ecologia": [],
-        "pensiones": [],
+        "empleo": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "salud": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "educacion": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "transporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "obras-publicas": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "energia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "ecologia": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "pensiones": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
         "valoricos": {
-          "aborto": [],
-          "matrimonio-igualitario": []
+          "aborto": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+          "matrimonio-igualitario": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
         },
-        "cultura": [],
-        "deporte": [],
-        "seguridad": []
+        "cultura": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "deporte": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ],
+        "seguridad": [
+          {
+            "texto": [],
+            "url": ""
+          }
+        ]
       },
       "precandidato": true
     }
