@@ -75,10 +75,85 @@
         ],
         "valoricos": {
           "aborto": [
-          {
-            "texto": [],
-            "url": ""
-          }
+            {
+                "texto": ["Estoy contra el aborto en cualquiera de sus formas y causales"],
+                "url": ""
+            },
+            {
+                "texto": ["Defender la vida es un privilegio para todos los que creemos que el énfasis está puesto en el bebé que está por nacer"],
+                "url": ""
+            },
+            {
+                "texto": ["Sobre el aborto: Si me hace perder una elección, orgulloso la pierdo"],
+                "url": ""
+            },{
+                "texto": ["La vida está siempre primero"],
+                "url": ""
+            },
+            {
+                "texto": ["El ser humano concebido en una relación de amor o una violación, no tiene diferencia"],
+                "url": ""
+            },
+            {
+                "texto": ["Yo creo que lo que hay que hacer es acompañar y dar en adopción o buscar fórmulas para que ese niño tenga el derecho básico que es nacer"],
+                "url": ""
+            },
+            {
+                "texto": ["Por malformación, bueno, algunos somos más feos que otros, pero por Dios que se ha equivocado la ciencia en esto"],
+                "url": ""
+            },
+            {
+                "texto": ["El Presidente de la República y la Primera Dama siempre han estado por la vida"],
+                "url": ""
+            },
+            {
+                "texto": ["La vida es la vida, y no tengo ninguna autoridad para decidir sobre la vida de alguien que no puede hablar"],
+                "url": ""
+            },
+            {
+                "texto": ["Nosotros no nos metemos en la planificación familiar, le damos a quien sea todos los métodos, pero mientras la ciencia no se ponga de acuerdo en que haya un aborto, personalmente no voy a entregarla"],
+                "url": ""
+            },
+            {
+                "texto": ["Una ley que no aprobaría nunca si llego al Congreso es la de aborto. Ningún tipo de aborto"],
+                "url": ""
+            },
+            {
+                "texto": ["No puedo entender la diferencia de una persona concebida por violación, de alguien concebido de forma normal"],
+                "url": ""
+            },
+            {
+                "texto": ["Creo que las mujeres tienen todo el derecho a decidir sobre su cuerpo. Pero no sobre otra vida. Por eso votaré en contra de este proyecto"],
+                "url": ""
+            },
+            {
+                "texto": ["Como dice el Papa Francisco, hay que convencerla que tener ese hijo es lo mejor"],
+                "url": ""
+            },
+            {
+                "texto": ["Hay algunos que ponen el énfasis en la libertad de la mujer para decidir sobre lo que hace con su cuerpo y habemos otros que ponemos el énfasis en la vida del que está por nacer"],
+                "url": ""
+            },
+            {
+                "texto": ["La vida no se defiende con panfletos, con caricaturas ni con amenazas. Defenderla es un privilegio para todos los que creemos que el énfasis está puesto en el bebé que está por nacer"],
+                "url": ""
+            },
+            {
+                "texto": ["Si yo comparo animales con vida humana, banalizo la discusión y la rebajo. La vida es tan sagrada que no admite comparaciones burda"],
+                "url": ""
+            },
+            {
+                "texto": ["A la mujer violada no hay que amenazarla con afiches o caricaturas"],
+                "url": ""
+            },
+            {
+                "texto": ["Todos saben que yo defiendo la vida y que lo voy a hacer siempre, pero no caricaturizando las cosas"],
+                "url": ""
+            },
+            {
+                "texto": ["Es una pena que la muerte le gane a la vida"],
+                "url": ""
+            }
         ],
           "matrimonio-igualitario": [
           {
